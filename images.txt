@@ -1,7 +1,1 @@
-bde2020/hadoop-namenode
-bde2020/hadoop-resourcemanager
-bde2020/hadoop-historyserver
-bde2020/hadoop-nodemanager
-bde2020/hadoop-datanode
-bde2020/spark-worker
-bde2020/spark-master
+gettyimages/spark
