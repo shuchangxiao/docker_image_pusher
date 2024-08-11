@@ -1,1 +1,2 @@
-gettyimages/spark
+elasticsearch:8.14.0
+kibana:8.14.0
