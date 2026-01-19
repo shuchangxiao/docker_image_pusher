@@ -1,4 +1,1 @@
-mysql:8.0.42
-redis:7.2.8
-minio/minio:RELEASE.2025-04-22T22-12-26Z
-nginx:1.22.1
+bellsoft/liberica-openjdk-rocky:17.0.16-cds
