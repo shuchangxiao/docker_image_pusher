@@ -1,1 +1,1 @@
-bellsoft/liberica-openjdk-rocky:17.0.16-cds
+mysql:5.7
